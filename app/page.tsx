@@ -5,7 +5,7 @@ export default function Home() {
       <main className="flex flex-col justify-center items-center">
         <Image
           className="dark:invert max-w-full h-full"
-          src="/10A3.png"
+          src="/10A3.jpg"
           alt="10A3 Kỉ Niệm"
           width={180}
           height={38}
@@ -13,7 +13,7 @@ export default function Home() {
         />
 		<Image
           className="dark:invert max-w-full h-full"
-          src="/10A3.png"
+          src="/10A3.jpg"
           alt="10A3 Kỉ Niệm"
           width={180}
           height={38}
@@ -21,7 +21,7 @@ export default function Home() {
         />
 		<Image
           className="dark:invert max-w-full h-full"
-          src="/10A3.png"
+          src="/10A3.jpg"
           alt="10A3 Kỉ Niệm"
           width={180}
           height={38}
@@ -29,7 +29,7 @@ export default function Home() {
         />
 		<Image
           className="dark:invert max-w-full h-full"
-          src="/10A3.png"
+          src="/10A3.jpg"
           alt="10A3 Kỉ Niệm"
           width={180}
           height={38}
